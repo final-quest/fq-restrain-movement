@@ -1,6 +1,8 @@
-## V1.x
+## V3.x
 ### Feat
--
+- Ajouter l'impossibilité de traverser des ennemis
+- Ajouter l'impossibilité de traverser des alliés
+
 ### Fix
 - 
 
