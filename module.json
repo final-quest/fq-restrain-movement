@@ -2,7 +2,7 @@
   "id": "fq-restrain-movement",
   "title": "FQ Restrain Movement",
   "description": "Configurable token movement restrictions (speed limit per movement mode, no move out of turn, no undo, ...), each toggleable, with per-case override hooks. Works in any system: dedicated speed adapters for dnd5e and pf2e, automatic detection elsewhere, plus a configurable data path and a registration API.",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "languages": [
     {
       "lang": "en",
@@ -40,7 +40,7 @@
   "download": "https://github.com/final-quest/fq-restrain-movement/releases/latest/download/fq-restrain-movement.zip",
   "compatibility": {
     "minimum": "14",
-    "verified": "14.368"
+    "verified": "14.369"
   },
   "relationships": {
     "requires": []

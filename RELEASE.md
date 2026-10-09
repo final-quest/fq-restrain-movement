@@ -1,3 +1,7 @@
+Update 3.0.1:
+    Chore:
+        - Version bump: Foundry 14.369 and dnd5e 6.0.6 verified, two patch releases that needed no change on our side
+
 Update 3.0.0:
     Feat:
         - Speed limit per movement mode: on its turn, a token cannot exceed the speed of the mode it is using (walk, fly, burrow, climb, swim), in the distance unit of the scene
