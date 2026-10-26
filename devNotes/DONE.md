@@ -1,3 +1,8 @@
+v3.0.1:
+Chore :
+- Support de la version Foundry 14.369 et DND5E 6.0.6, deux versions correctives n'ayant rien demandé de notre côté.
+- Version alignée sur fq-card-engine et fq-enhanced-combat : les trois modules sont publiés ensemble.
+
 v3.0.0:
 Feat :
 - Limite de vitesse appliquée au mode de déplacement utilisé (marche, vol, terrier, escalade, nage) et non plus à la seule marche.

@@ -1,6 +1,8 @@
 Update 3.0.1:
     Chore:
         - Version bump: Foundry 14.369 and dnd5e 6.0.6 verified, two patch releases that needed no change on our side
+        - The dedicated dnd5e adapter is unchanged: the speeds are still read from system.attributes.movement.speeds, with the movement modes and the walk fallback
+        - Version following FQ Card Engine and FQ Enhanced Combat: the three modules are published together
 
 Update 3.0.0:
     Feat:
