@@ -1,6 +1,6 @@
 {
   "name": "fq-restrain-movement",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Configurable token movement restrictions for Foundry VTT",
   "type": "module",
   "license": "MIT",
